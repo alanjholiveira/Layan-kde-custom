@@ -27,7 +27,10 @@ In this repository you'll find:
 
   Run `kvantummanager` to choose and apply **Layan** theme.
 
-- Install [Tela icon theme](https://github.com/vinceliuice/Tela-icon-theme) for a more consistent and beautiful experience.
+- Install 
+[WhiteSur icon theme](https://github.com/vinceliuice/WhiteSur-icon-theme), 
+[macOS Big Sur] (https://github.com/ful1e5/apple_cursor)
+For a more consistent and beautiful experience.
 
 ## License
 
@@ -36,3 +39,6 @@ GNU GPL v3
 ## preview
 
 ![1](../main/plasma/look-and-feel/com.github.vinceliuice.Layan/contents/previews/fullscreenpreview.jpg)
+
+## Theme Base
+[Layan]
