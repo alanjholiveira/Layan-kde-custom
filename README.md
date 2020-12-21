@@ -1,5 +1,5 @@
 
-Layan kde is a flat Design theme for KDE Plasma desktop.
+Layan kde is a flat Design theme for KDE Plasma desktop (CUSTOM).
 
 In this repository you'll find:
 
@@ -29,16 +29,10 @@ In this repository you'll find:
 
 - Install [Tela icon theme](https://github.com/vinceliuice/Tela-icon-theme) for a more consistent and beautiful experience.
 
-## Donate
-
-If you like my project, you can donate at:
-
-<span class="paypal"><a href="https://www.paypal.me/vinceliuice" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
-
 ## License
 
 GNU GPL v3
 
 ## preview
 
-![1](../master/plasma/look-and-feel/com.github.vinceliuice.Layan/contents/previews/fullscreenpreview.jpg)
+![1](../main/plasma/look-and-feel/com.github.vinceliuice.Layan/contents/previews/fullscreenpreview.jpg)
